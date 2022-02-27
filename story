@@ -6,4 +6,6 @@ After running for some time the Tortoise thought it would be good to stop and ta
 because he thought the Tortoise was very slow and would never catch up.
 The Hare woke up after a while to see that the Tortoise was almost at the finish; 
 the Hare tried to catch up to win the race but could not. The Tortoise won the race 
-agaisnt the hair. Slow and steady wins the race.
+agaisnt the hair. 
+Morale: 
+Slow and steady wins the race.
